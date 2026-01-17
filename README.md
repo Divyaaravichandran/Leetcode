@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3210-find-the-encrypted-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/3210-find-the-encrypted-string) |
 ## Backtracking
 |  |
 | ------- |
