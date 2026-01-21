@@ -12,13 +12,9 @@ class Solution {
             }
             else
             {
-                s += i*2;
+                s += i*2+1;
                 c = capacity;
-                if(plants[i]<=c)
-                {
-                    s+=1;
-                    c-=plants[i];
-                }
+                c-=plants[i];
             }
         }
         return s;
