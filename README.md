@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
