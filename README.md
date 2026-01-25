@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Divyaaravichandran/Leetcode/tree/master/0053-maximum-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyaaravichandran/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Divyaaravichandran/Leetcode/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Divyaaravichandran/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
