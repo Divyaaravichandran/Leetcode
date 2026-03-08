@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3210-find-the-encrypted-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/3210-find-the-encrypted-string) |
 ## Backtracking
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Divyaaravichandran/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Divyaaravichandran/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divyaaravichandran/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Queue
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Divyaaravichandran/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Divyaaravichandran/Leetcode/tree/master/0190-reverse-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Divyaaravichandran/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divyaaravichandran/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
