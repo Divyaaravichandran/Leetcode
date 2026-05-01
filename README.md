@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0459-repeated-substring-pattern](https://github.com/Divyaaravichandran/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [3210-find-the-encrypted-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/3210-find-the-encrypted-string) |
 ## Backtracking
 |  |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Divyaaravichandran/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
