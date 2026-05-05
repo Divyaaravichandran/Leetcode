@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Divyaaravichandran/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Divyaaravichandran/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Divyaaravichandran/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divyaaravichandran/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyaaravichandran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Divyaaravichandran/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Divyaaravichandran/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Divyaaravichandran/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
