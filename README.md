@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Divyaaravichandran/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3046-split-the-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/3046-split-the-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Divyaaravichandran/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
