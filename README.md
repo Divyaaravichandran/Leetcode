@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Divyaaravichandran/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1539-kth-missing-positive-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Divyaaravichandran/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3046-split-the-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/3046-split-the-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Divyaaravichandran/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Divyaaravichandran/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Divyaaravichandran/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyaaravichandran/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
