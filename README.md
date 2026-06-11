@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/Divyaaravichandran/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Divyaaravichandran/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3046-split-the-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/3046-split-the-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/Divyaaravichandran/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
