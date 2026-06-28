@@ -1,13 +1,21 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        int a = 0;
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]==nums[i+1]){
-                a = nums[i];
-                break;
-            }
+        int slow = nums[0];
+        int fast = nums[0];
+
+        // Step 1: Detect cycle
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+
+        // Step 2: Find entry point
+        slow = nums[0];
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return a;
+
+        return slow;
     }
 }
