@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyaaravichandran/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Divyaaravichandran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyaaravichandran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Divyaaravichandran/Leetcode/tree/master/0066-plus-one) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyaaravichandran/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Divyaaravichandran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Divyaaravichandran/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Divyaaravichandran/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyaaravichandran/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Divyaaravichandran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divyaaravichandran/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyaaravichandran/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Divyaaravichandran/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Divyaaravichandran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Divyaaravichandran/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyaaravichandran/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Divyaaravichandran/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
