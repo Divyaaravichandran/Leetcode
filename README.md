@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divyaaravichandran/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Divyaaravichandran/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Divyaaravichandran/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Divyaaravichandran/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1539-kth-missing-positive-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyaaravichandran/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -228,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Divyaaravichandran/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
