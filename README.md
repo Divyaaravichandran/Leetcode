@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Divyaaravichandran/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Divyaaravichandran/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Divyaaravichandran/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Divyaaravichandran/Leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Divyaaravichandran/Leetcode/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/Divyaaravichandran/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Divyaaravichandran/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
