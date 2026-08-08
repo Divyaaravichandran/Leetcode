@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Divyaaravichandran/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Divyaaravichandran/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Divyaaravichandran/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Divyaaravichandran/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [3436-find-valid-emails](https://github.com/Divyaaravichandran/Leetcode/tree/master/3436-find-valid-emails) |
 ## String Matching
