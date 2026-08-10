@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0443-string-compression](https://github.com/Divyaaravichandran/Leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Divyaaravichandran/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/Divyaaravichandran/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyaaravichandran/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Divyaaravichandran/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Divyaaravichandran/Leetcode/tree/master/0455-assign-cookies) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Divyaaravichandran/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
