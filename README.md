@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Divyaaravichandran/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3046-split-the-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/3046-split-the-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divyaaravichandran/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3731-find-missing-elements](https://github.com/Divyaaravichandran/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Divyaaravichandran/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/Divyaaravichandran/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divyaaravichandran/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3210-find-the-encrypted-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyaaravichandran/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divyaaravichandran/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
