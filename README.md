@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyaaravichandran/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divyaaravichandran/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/Divyaaravichandran/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Divyaaravichandran/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Divyaaravichandran/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Divyaaravichandran/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/Divyaaravichandran/Leetcode/tree/master/0867-transpose-matrix) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Divyaaravichandran/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Divyaaravichandran/Leetcode/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
 | ------- |
