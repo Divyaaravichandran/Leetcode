@@ -9,6 +9,6 @@ class Solution {
             pro*=rem;
             n/=10;
         }
-        return (temp%(sum+pro)==0?true:false);
+        return temp%(sum+pro)==0;
     }
 }
