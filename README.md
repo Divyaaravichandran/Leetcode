@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Divyaaravichandran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyaaravichandran/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Divyaaravichandran/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Divyaaravichandran/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Divyaaravichandran/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyaaravichandran/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Divyaaravichandran/Leetcode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyaaravichandran/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Divyaaravichandran/Leetcode/tree/master/0455-assign-cookies) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Divyaaravichandran/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
