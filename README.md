@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divyaaravichandran/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Divyaaravichandran/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Divyaaravichandran/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Divyaaravichandran/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Divyaaravichandran/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Divyaaravichandran/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
