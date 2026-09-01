@@ -1,8 +1,7 @@
 import java.util.*;
 class Solution {
     public int minimumDeletions(int[] nums) {
-        int min = nums[0];
-        int max = nums[0];
+        
         int minindex = 0;
         int maxindex = 0;
         int ans1 = 1;
@@ -16,12 +15,10 @@ class Solution {
             return 2;
         }
         for(int i=0;i<nums.length;i++){
-            if(nums[i]<min){
-                min = nums[i];
+            if(nums[i]<nums[minindex]){
                 minindex = i;
             }
-            if(nums[i]>max){
-                max = nums[i];
+            if(nums[i]>nums[maxindex]){
                 maxindex = i;
             }
         }
