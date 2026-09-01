@@ -1,6 +1,12 @@
 import java.util.*;
 class Solution {
     public int minimumDeletions(int[] nums) {
+        if(nums.length==1){
+            return 1;
+        }
+        if(nums.length==2){
+            return 2;
+        }
         int minindex = 0;
         int maxindex = 0;
 
