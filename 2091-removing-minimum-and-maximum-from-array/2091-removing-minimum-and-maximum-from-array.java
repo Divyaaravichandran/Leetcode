@@ -7,7 +7,6 @@ class Solution {
         int ans1 = 1;
         int ans2 = 1;
         int ans3 = 2;
-        int ans;
         if(nums.length==1){
             return 1;
         }
@@ -60,16 +59,13 @@ class Solution {
         System.out.println(ans3);
 
         if(ans1<=ans2 && ans1<=ans3){
-            ans = ans1;
-            return ans;
+            return ans1;
         }
         if(ans2<=ans1 && ans2<=ans3){
-            ans = ans2;
-            return ans;
+            return ans2;
         }
         if(ans3<=ans1 && ans3<=ans2){
-            ans = ans3;
-            return ans;
+            return ans3;
         }
         return 0;
     }
