@@ -1,7 +1,7 @@
 import java.util.*;
 class Solution {
     public int minimumDeletions(int[] nums) {
-        
+        int ans;
         int minindex = 0;
         int maxindex = 0;
         int ans1 = 1;
@@ -27,7 +27,6 @@ class Solution {
             ans1 += maxindex;
         else if(minindex>maxindex)
             ans1 += minindex;
-        System.out.println(ans1);
 
         //Delete from end
         if(minindex<maxindex){
@@ -40,7 +39,6 @@ class Solution {
                 ans2+=1;
             }
         }
-        System.out.println(ans2);
 
         //Delete from start and end
         if(minindex<maxindex){
@@ -56,17 +54,8 @@ class Solution {
                 ans3+=1;
             }
         }
-        System.out.println(ans3);
 
-        if(ans1<=ans2 && ans1<=ans3){
-            return ans1;
-        }
-        if(ans2<=ans1 && ans2<=ans3){
-            return ans2;
-        }
-        if(ans3<=ans1 && ans3<=ans2){
-            return ans3;
-        }
-        return 0;
+        ans = Math.min(ans1,ans2);
+        return Math.min(ans,ans3);
     }
 }
