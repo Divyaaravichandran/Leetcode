@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divyaaravichandran/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Divyaaravichandran/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Divyaaravichandran/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyaaravichandran/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Divyaaravichandran/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Divyaaravichandran/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Divyaaravichandran/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Divyaaravichandran/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Divyaaravichandran/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
