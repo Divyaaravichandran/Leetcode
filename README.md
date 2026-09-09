@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Divyaaravichandran/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Divyaaravichandran/Leetcode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Divyaaravichandran/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Divyaaravichandran/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Divyaaravichandran/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Divyaaravichandran/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
