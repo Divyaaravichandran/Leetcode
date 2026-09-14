@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Divyaaravichandran/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyaaravichandran/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Divyaaravichandran/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Divyaaravichandran/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Divyaaravichandran/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divyaaravichandran/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Divyaaravichandran/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
