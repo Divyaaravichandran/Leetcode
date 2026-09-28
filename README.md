@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Divyaaravichandran/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/Divyaaravichandran/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Divyaaravichandran/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divyaaravichandran/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3210-find-the-encrypted-string](https://github.com/Divyaaravichandran/Leetcode/tree/master/3210-find-the-encrypted-string) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Divyaaravichandran/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Divyaaravichandran/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyaaravichandran/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
