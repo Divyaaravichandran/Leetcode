@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyaaravichandran/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Divyaaravichandran/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divyaaravichandran/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Divyaaravichandran/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyaaravichandran/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Divyaaravichandran/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyaaravichandran/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Divyaaravichandran/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3536-maximum-product-of-two-digits](https://github.com/Divyaaravichandran/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
