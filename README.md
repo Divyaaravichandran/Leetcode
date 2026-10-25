@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Divyaaravichandran/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/Divyaaravichandran/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divyaaravichandran/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2079-watering-plants](https://github.com/Divyaaravichandran/Leetcode/tree/master/2079-watering-plants) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Divyaaravichandran/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Divyaaravichandran/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Divyaaravichandran/Leetcode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Divyaaravichandran/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
 | ------- |
