@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Divyaaravichandran/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyaaravichandran/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Divyaaravichandran/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Divyaaravichandran/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyaaravichandran/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Divyaaravichandran/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Divyaaravichandran/Leetcode/tree/master/1672-richest-customer-wealth) |
